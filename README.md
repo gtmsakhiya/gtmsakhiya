@@ -1,16 +1,12 @@
-### Hi there 👋
+### :)Hi, 🫡My name is Gautam Sakhiya.🤘
+## IOS Developer
 
-<!--
-**gtmsakhiya/gtmsakhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
+- 🔭 I’m currently working on iOS app devlopment.
+- 🌱 I’m currently learning objective C, swift for app devlopment.
+- 🤔 I’m also work for VBScript, AppleScript and python for fun and automating tasks and controlling all apps.
+- 💬 I'm a full time App developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Code Use:**
+  - **.vbs** extension file is use for **windowsOS** automation task.
+  - **.scpt** extension file is use for **macOS** automation task.
