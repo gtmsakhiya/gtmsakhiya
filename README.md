@@ -8,5 +8,5 @@
 - 💬 I'm a full time App developer.
 
 **Code Use:**
-  - **.vbs** extension file is use for **windowsOS** automation task.
+  - **.vbs** extension file is use for **Microsoft** automation task.
   - **.scpt** extension file is use for **macOS** automation task.
